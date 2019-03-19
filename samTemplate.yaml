@@ -6,7 +6,7 @@ Resources:
     Type: 'AWS::Serverless::Function'
     Properties:
       Handler: main.handler
-      Runtime: nodejs4.3
+      Runtime: nodejs8.10
       CodeUri: ./
       Description: 'Lambda function for CD Demo'
       MemorySize: 128
