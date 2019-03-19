@@ -1,0 +1,6 @@
+{
+    "dbhost" : "awsdb.c94e9spy3wia.ap-south-1.rds.amazonaws.com",
+    "dbname" : "awsdb",
+    "dbuser" :"root",
+    "dbpassword" :"password"
+}
